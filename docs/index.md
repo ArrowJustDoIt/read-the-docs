@@ -1,13 +1,9 @@
 # www.city.com
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## 评论列表
 
-## 上传文件
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* `http://www.city.com/index.php/Home/Ask/listask/token/2c6166b2e1ef8e4d04dd3fb8097fba17/page_count/1`
+* `page_count` - 页码
 
 ## 添加文章
 
