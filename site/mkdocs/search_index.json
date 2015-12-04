@@ -2,18 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "www.city.com\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\n\u4e0a\u4f20\u6587\u4ef6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "www.city.com\n\n\n\u8bc4\u8bba\u5217\u8868\n\n\n\n\nhttp://www.city.com/index.php/Home/Ask/listask/token/2c6166b2e1ef8e4d04dd3fb8097fba17/page_count/1\n\n\npage_count\n - \u9875\u7801\n\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "www.city.com"
         },
         {
             "location": "/#wwwcitycom",
-            "text": "For full documentation visit  mkdocs.org .",
+            "text": "",
             "title": "www.city.com"
         },
         {
             "location": "/#_1",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "\u4e0a\u4f20\u6587\u4ef6"
+            "text": "http://www.city.com/index.php/Home/Ask/listask/token/2c6166b2e1ef8e4d04dd3fb8097fba17/page_count/1  page_count  - \u9875\u7801",
+            "title": "\u8bc4\u8bba\u5217\u8868"
         },
         {
             "location": "/#_2",
