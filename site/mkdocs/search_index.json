@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "www.city.com\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\n\u4e0a\u4f20\u6587\u4ef6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u6dfb\u52a0\u6587\u7ae0\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "www.city.com"
+        },
+        {
+            "location": "/#wwwcitycom",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "www.city.com"
+        },
+        {
+            "location": "/#_1",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "\u4e0a\u4f20\u6587\u4ef6"
+        },
+        {
+            "location": "/#_2",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_3",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_4",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_5",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_6",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_7",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/#_8",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u6dfb\u52a0\u6587\u7ae0"
+        },
+        {
+            "location": "/about/",
+            "text": "",
+            "title": "About"
+        }
+    ]
+}
