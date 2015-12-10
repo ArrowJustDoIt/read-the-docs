@@ -1,5 +1,5 @@
 site_name: Project
 pages:
 - ['index.md', 'www.city.com']
-- [about.md, About]
+- [about.md, 'www.sxg.com']
 theme: readthedocs
