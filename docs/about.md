@@ -147,3 +147,58 @@
  * @return [type] [description]
  */
 ```
+
+## 订单管理
+
+### 添加订单
+
+```
+/**
+http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da18777993
+ * 添加订单 add
+ * token
+ * consignee 收货人
+ * country 国家
+ * province 省份
+ * city 市
+ * district 地区
+ * address 详细地址
+ * mobile 手机
+ * email 邮箱
+ * best_time 最佳送货时间
+ * postscript 留言
+ * pay_id 支付ID
+ * array goods = array(
+ *                 [0] => array(
+ *                     'goods_id' => 1,
+ *                     'goods_number' => 1,
+ *                 ),
+ *                 [1] => array(
+ *                     'goods_id' => 2,
+ *                     'goods_number' => 3,
+ *                 ),
+ *                 ......
+ *             )
+ *
+ */
+``` 
+
+### 查看订单/订单详情
+
+```
+/**
+ * 获取用户订单
+ * http://192.168.0.110/www.sxg.com/order/get/token/2a26d06f38e4f13cdcf5e8da18777993
+ * @return [type] [description]
+ */
+```
+### 删除订单
+
+```
+/**
+* 删除
+* @param order_id get
+* @return [type] [description]
+* http://192.168.0.110/www.sxg.com/order/del/token/2a26d06f38e4f13cdcf5e8da18777993
+*/
+```
