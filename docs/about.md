@@ -74,7 +74,7 @@ token
 p:分页
 t:分类id
 ```
-### 
+### 百科详情
 
 ```
 http://192.168.0.110/www.sxg.com/article/getinfo/id/15
