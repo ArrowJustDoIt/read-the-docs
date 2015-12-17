@@ -64,7 +64,16 @@
  * 2a26d06f38e4f13cdcf5e8da18777993
  */
 ```
+## 百科
 
+### 百科首页
+
+```
+http://192.168.0.188/www.sxg.com/article/index/token/2a26d06f38e4f13cdcf5e8da18777993/p/0/t/1
+token
+p:分页
+t:分类id
+```
 ## 问答吐槽
 
 ### 问答吐槽首页
