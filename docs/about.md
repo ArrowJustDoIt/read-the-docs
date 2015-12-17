@@ -202,3 +202,15 @@ http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da1877799
 * http://192.168.0.110/www.sxg.com/order/del/token/2a26d06f38e4f13cdcf5e8da18777993
 */
 ```
+
+## 商品
+
+### 商品排序
+
+
+http://192.168.0.110/www.sxg.com/goods/index/type/desc/desc/goods_number
+type:`desc 降序`
+	 `asc  升序`
+desc:`goods_id     商品添加时间`
+	 `market_price 市场售价`
+	 `shop_price   本店售价`
