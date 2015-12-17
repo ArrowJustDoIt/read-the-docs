@@ -74,6 +74,13 @@ token
 p:分页
 t:分类id
 ```
+### 
+
+```
+http://192.168.0.110/www.sxg.com/article/getinfo/id/15
+id:百科id
+```
+
 ## 问答吐槽
 
 ### 问答吐槽首页

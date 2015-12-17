@@ -72,13 +72,13 @@
                 
                     <li><a class="toctree-l4" href="#_8">百科</a></li>
                 
-                    <li><a class="toctree-l4" href="#_10">问答吐槽</a></li>
+                    <li><a class="toctree-l4" href="#_11">问答吐槽</a></li>
                 
-                    <li><a class="toctree-l4" href="#_13">收货地址</a></li>
+                    <li><a class="toctree-l4" href="#_14">收货地址</a></li>
                 
-                    <li><a class="toctree-l4" href="#_18">订单管理</a></li>
+                    <li><a class="toctree-l4" href="#_19">订单管理</a></li>
                 
-                    <li><a class="toctree-l4" href="#_22">商品</a></li>
+                    <li><a class="toctree-l4" href="#_23">商品</a></li>
                 
             
             </ul>
@@ -181,8 +181,13 @@ p:分页
 t:分类id
 </code></pre>
 
-<h2 id="_10">问答吐槽</h2>
-<h3 id="_11">问答吐槽首页</h3>
+<h3 id="_10"></h3>
+<pre><code>http://192.168.0.110/www.sxg.com/article/getinfo/id/15
+id:百科id
+</code></pre>
+
+<h2 id="_11">问答吐槽</h2>
+<h3 id="_12">问答吐槽首页</h3>
 <pre><code>/**
  * show
  * @param int t 类型 2:吐槽 3:问答
@@ -192,7 +197,7 @@ t:分类id
  */
 </code></pre>
 
-<h3 id="_12">添加问答吐槽</h3>
+<h3 id="_13">添加问答吐槽</h3>
 <pre><code>/**
  * +----------------------------------------------------------
  *  添加问答/吐槽
@@ -205,8 +210,8 @@ t:分类id
  */
 </code></pre>
 
-<h2 id="_13">收货地址</h2>
-<h3 id="_14">添加收货地址</h3>
+<h2 id="_14">收货地址</h2>
+<h3 id="_15">添加收货地址</h3>
 <pre><code>/**
  * 添加收货地址
  * http://192.168.0.110/www.sxg.com/user/addAddress/token/2a26d06f38e4f13cdcf5e8da18777993/
@@ -219,7 +224,7 @@ t:分类id
  */
 </code></pre>
 
-<h3 id="_15">删除收货地址</h3>
+<h3 id="_16">删除收货地址</h3>
 <pre><code>/**
  * http://192.168.0.110/www.sxg.com/user/delAddress/token/2a26d06f38e4f13cdcf5e8da18777993/
  * @param int id  搜获地址id
@@ -227,7 +232,7 @@ t:分类id
  */
 </code></pre>
 
-<h3 id="_16">修改收货地址</h3>
+<h3 id="_17">修改收货地址</h3>
 <pre><code>/**
  * http://192.168.0.110/www.sxg.com/user/saveAddress/token/2a26d06f38e4f13cdcf5e8da18777993/
  * @param int id  收货地址id
@@ -241,7 +246,7 @@ t:分类id
  */
 </code></pre>
 
-<h3 id="_17">显示收货地址</h3>
+<h3 id="_18">显示收货地址</h3>
 <pre><code>/**
  * 显示收货地址
  * http://192.168.0.110/www.sxg.com/user/saveAddress/token/2a26d06f38e4f13cdcf5e8da18777993/
@@ -250,8 +255,8 @@ t:分类id
  */
 </code></pre>
 
-<h2 id="_18">订单管理</h2>
-<h3 id="_19">添加订单</h3>
+<h2 id="_19">订单管理</h2>
+<h3 id="_20">添加订单</h3>
 <pre><code>/**
 http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da18777993
  * 添加订单 add
@@ -282,7 +287,7 @@ http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da1877799
  */
 </code></pre>
 
-<h3 id="_20">查看订单/订单详情</h3>
+<h3 id="_21">查看订单/订单详情</h3>
 <pre><code>/**
  * 获取用户订单
  * http://192.168.0.110/www.sxg.com/order/get/token/2a26d06f38e4f13cdcf5e8da18777993
@@ -290,7 +295,7 @@ http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da1877799
  */
 </code></pre>
 
-<h3 id="_21">删除订单</h3>
+<h3 id="_22">删除订单</h3>
 <pre><code>/**
 * 删除
 * @param order_id get
@@ -299,8 +304,8 @@ http://192.168.0.110/www.sxg.com/order/add/token/2a26d06f38e4f13cdcf5e8da1877799
 */
 </code></pre>
 
-<h2 id="_22">商品</h2>
-<h3 id="_23">商品排序</h3>
+<h2 id="_23">商品</h2>
+<h3 id="_24">商品排序</h3>
 <pre><code>http://192.168.0.110/www.sxg.com/goods/index/type/desc/desc/goods_number/cat_id/1/page/0
 
 type:`desc 降序`
