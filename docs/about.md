@@ -77,7 +77,8 @@ t:分类id
 ### 百科详情
 
 ```
-http://192.168.0.110/www.sxg.com/article/getinfo/id/15
+http://192.168.0.110/www.sxg.com/article/getinfo/token/2a26d06f38e4f13cdcf5e8da18777993/id/11
+eoken
 id:百科id
 ```
 
