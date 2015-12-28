@@ -235,3 +235,19 @@ desc:`goods_id     商品添加时间`
 cat_id:分类id
 page:分页
 ```
+
+## 评价
+
+### 添加评价
+
+```
+http://192.168.0.110/www.sxg.com/comments/add/token/2a26d06f38e4f13cdcf5e8da18777993
+`token`
+`gid`:商品id
+'is_anonymous':是否匿名 0:否 1:是
+'content':评价内容
+'describes':描述想复读
+'services':服务态度
+'shipments':发货速度
+`uppic`:上传图片字段
+```
